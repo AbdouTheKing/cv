@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+td, th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+body{
+    background-image: url('r1.jpg');
+    height: 100vh; 
+    color: azure;
+    line-height: 24px;
+  }
+ .me img{
+    border-radius: 50%;
+    width: 150px;
+    height:auto;
+}
+
+.bg {
+        text-align: center;
+    
+    }
+    ul{
+    
+        list-style: none;
+    }
+    h2{
+        padding: 20px;
+        margin: 30px;
+        border-style: double;
+        width: 30%;
+    }
+    a { color: inherit; } 
+    
+    
+    
